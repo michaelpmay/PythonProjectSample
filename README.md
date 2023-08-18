@@ -8,7 +8,7 @@ The main of the automation project is to create smart microscopy tools that uses
 ![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/Intro.png)
 
 We were able to create a custom built fluorescnt microscope by aligning optical components and writing C++ driver code.
-![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/Cartoon.png)
+![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/cartoon.png)
 
 As a side project, we utillized Convolutional neural nets and wrote galvo driver code to destroy cells with undesired phenotypes.
-![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/terminator.png)
+![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/terminator.gif)
