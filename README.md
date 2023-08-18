@@ -12,7 +12,7 @@ The responsibility of this project was to write automation code in python that c
 We were able to create a custom built fluorescnt microscope by aligning optical components and writing C++ driver code.
 ![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/cartoon.png)
 
-We derived new mathemtics on experimental measurement distortions with Fisher information and gathered a large dataset using the automated microscope that could measure "distortion operators" of real microscopes.
+We derived new mathemtics on experimental measurement distortions with Fisher information and gathered a large dataset using the automated microscope that could measure "probability distortion operators" of real microscopes.
 ![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/FisherInformation.png)
 
 As a side project, we utillized Convolutional neural nets and wrote galvo driver code to destroy cells with undesired phenotypes.
