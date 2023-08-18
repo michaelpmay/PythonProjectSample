@@ -50,6 +50,11 @@ class iMicroscopyImageProcess:
         return image
 
 
+class iMicroscopyImageProcessLibrary:
+    'A factory design pattern for differnt image process nodes'
+    pass
+
+
 class MicroscopyImage(iMicroscopyImage):
     channel=None
     meta = None
