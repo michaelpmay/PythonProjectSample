@@ -13,6 +13,9 @@ We were able to create a custom built fluorescent microscope by aligning optical
 The responsibility of the automation project was to write code in Python that could collect large ammounts of data that could maximize the ammount of information gathered despite measurement distortions.
 ![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/Intro.png)
 
+We used automation to gather large ammounts of data under different experiemntal conditions and examined how measuremnts of peortin levels changed
+![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/pdo.png)
+
 We derived new mathemtics on experimental measurement distortions with Fisher information and gathered a large dataset using the automated microscope that could measure "probability distortion operators" of real microscopes.
 ![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/FisherInformation.png)
 
