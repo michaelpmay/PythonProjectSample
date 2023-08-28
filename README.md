@@ -10,15 +10,15 @@ The main goal of the team is to create smart microscopy tools that uses statisti
 We were able to create a custom built fluorescent microscope by aligning optical components, writing C++ driver code, developing Python Automation code.
 ![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/cartoon.png)
 
-The responsibility of the automation project was to write code in Python that could collect large ammounts of data that could maximize the ammount of information gathered despite measurement distortions.
+The responsibility of the automation project was to write code in Python that could collect large amounts of data that could maximize the amount of information gathered despite measurement distortions.
 ![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/Intro.png)
 
-We used automation to gather large ammounts of data under different experiemntal conditions and examined how measuremnts of peortin levels changed
+We used automation to gather large amounts of data under different experimental conditions and examined how measured protein levels changed under different conditions using a simple linear operator
 ![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/pdo.png)
 
-We derived new mathemtics on experimental measurement distortions with Fisher information and gathered a large dataset using the automated microscope that could measure "probability distortion operators" of real microscopes.
+We derived new mathematics on experimental measurement distortions with Fisher information and gathered a large dataset using the automated microscope that could measure "probability distortion operators" of real microscopes.
 ![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/FisherInformation.png)
 
-As a side project, we utillized convolutional neural nets and wrote galvo driver code to destroy cells with undesired phenotypes.
+As a side project, we utilized convolutional neural nets and wrote galvo driver code to destroy cells with undesired phenotypes.
 ![Alt text](https://github.com/michaelpmay/PythonProjectSample/blob/main/terminator.gif)
 
