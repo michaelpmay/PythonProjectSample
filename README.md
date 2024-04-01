@@ -1,4 +1,4 @@
-# PythonProjectSample
+# Python Project Sample
 
 ## Intruduction
 This repository contains code for a project that utilizes automation and statistical modeling to design and conduct informative microscopy experiments. The project involved building a custom fluorescent microscope and developing software for its control. Automation enabled the collection of large datasets for analysis. A statistical framework was developed to account for measurement distortions and improve experiment information.  As a side project, the use of convolutional neural networks for cell targeting was also developed.
